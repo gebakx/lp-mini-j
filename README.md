@@ -217,7 +217,7 @@ python3 g.py programa.j
 El programa sempre ha de començar per la funció `main`. L'entrada-sortida ha de ser via stdin/stdout. Així es podran utilitzar operadors de redirecció i *pipes*:
 
 ```bash
-python3 g.py programa.j < entrada.txt > sortida.txt
+python3 g.py programa.j > sortida.txt
 ```
 
 ### Jocs de proves
@@ -252,7 +252,7 @@ Heu de lliurar la vostra pràctica al Racó. Només heu de lliurar un fitxer ZIP
 
 - Més fitxers `.py` amb les classes, visitadors i funcions auxiliars.
 
-- Jocs de proves en fitxers `.j` amb entrades en fitxers `.inp` i sortides en fitxers `.out`.
+- Jocs de proves en fitxers `.j` amb sortides en fitxers `.out`.
 
 - Res més. 
 
