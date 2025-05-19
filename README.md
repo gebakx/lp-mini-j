@@ -222,7 +222,7 @@ python3 g.py programa.j > sortida.txt
 
 ### Jocs de proves
 
-El vostre projecte ha d'incloure jocs de proves que demostrin que el vostre intèrpret funciona correctament. Aquests jocs de proves han de ser fitxers amb extensió `.j` que continguin programes vàlids en G. La qualitat (però no la quantitat) dels jocs de proves serà un factor important en l'avaluació de la pràctica. Els jocs de proves poden venir acompayats de fitxers d'entrada (`.inp`) i de sortida (`.out`) per facilitar la seva repetició.
+El vostre projecte ha d'incloure jocs de proves que demostrin que el vostre intèrpret funciona correctament. Aquests jocs de proves han de ser fitxers amb extensió `.j` que continguin programes vàlids en G. La qualitat (però no la quantitat) dels jocs de proves serà un factor important en l'avaluació de la pràctica. Els jocs de proves poden venir acompayats de fitxers de sortida (`.out`) per facilitar la seva repetició.
 
 ### Llibreries
 
